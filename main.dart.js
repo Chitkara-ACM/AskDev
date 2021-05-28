@@ -32993,7 +32993,7 @@ $iv:1}
 P.HP.prototype={}
 P.HQ.prototype={}
 F.A8.prototype={
-W:function(a,b){return new S.qY(new F.rb(null),"Flutter Demo",X.a86(null,C.hR),!1,null)}}
+W:function(a,b){return new S.qY(new F.rb(null),"Ask Dev",X.a86(null,C.hR),!1,null)}}
 F.rb.prototype={
 aR:function(){return new F.vj(C.n)}}
 F.vj.prototype={
@@ -33050,11 +33050,11 @@ b2=B.afx(2.7777777777777777,!0,P.cc(0,800),C.eW,!0,!0,b2*0.8,1)
 a9=$.R
 b2=H.c([new O.pC(b2,b0,new G.L7(new P.aC(new P.a_(a9,t.dX),t.Fe)),3,b1)],b4)
 a9=P.aR([null,0],t.st,t.S)
-b2=T.a6a(H.c([b3,r,M.dM(b1,T.a6a(H.c([n,m,l,o,k,i,h,g,f,q,e,d,c,a,a0,a1,a3,a4,a6,a5,a7,a8,new B.zP(new G.Ve(!0,!0,!0,b2,a9),b1,C.l,!1,b1,!0,C.rA,!0,b1,1,C.b2,C.xn,b1,C.aC,b1),T.da(H.c([L.cl("Additional Information",A.cB(b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,j,b1,C.I,b1,b1,!0,b1,b1,b1,b1,b1,b1))],b4)),T.cX(b1,s,b1),T.da(H.c([L.cl("Published by :",A.cB(b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,s,b1,C.I,b1,b1,!0,b1,b1,b1,b1,b1,b1)),L.cl(" ACM Flutter Team",A.cB(b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,s,b1,C.I,b1,b1,!0,b1,b1,b1,b1,b1,b1))],b4)),T.cX(b1,a2,b1),T.da(H.c([L.cl("Release date : ",A.cB(b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,s,b1,C.I,b1,b1,!0,b1,b1,b1,b1,b1,b1)),L.cl("XX-XX-XXXX",A.cB(b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,s,b1,C.I,b1,b1,!0,b1,b1,b1,b1,b1,b1))],b4)),T.cX(b1,a2,b1),T.da(H.c([L.cl("Approximate size : ",A.cB(b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,s,b1,C.I,b1,b1,!0,b1,b1,b1,b1,b1,b1)),L.cl("30MB",A.cB(b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,s,b1,C.I,b1,b1,!0,b1,b1,b1,b1,b1,b1))],b4)),T.cX(b1,a2,b1),T.da(H.c([L.cl("Category : ",A.cB(b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,s,b1,C.I,b1,b1,!0,b1,b1,b1,b1,b1,b1)),L.cl("Education",A.cB(b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,s,b1,C.I,b1,b1,!0,b1,b1,b1,b1,b1,b1))],b4))],b4)),b1,b1,b1,b1,new V.b8(p,0,p,0),b1,b1)],b4))
+b2=T.a6a(H.c([b3,r,M.dM(b1,T.a6a(H.c([n,m,l,o,k,i,h,g,f,q,e,d,c,a,a0,a1,a3,a4,a6,a5,a7,a8,new B.zP(new G.Ve(!0,!0,!0,b2,a9),b1,C.l,!1,b1,!0,C.rA,!0,b1,1,C.b2,C.xn,b1,C.aC,b1),T.da(H.c([L.cl("Additional Information",A.cB(b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,j,b1,C.I,b1,b1,!0,b1,b1,b1,b1,b1,b1))],b4)),T.cX(b1,s,b1),T.da(H.c([L.cl("Published by :",A.cB(b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,s,b1,C.I,b1,b1,!0,b1,b1,b1,b1,b1,b1)),L.cl(" ACM Flutter Team",A.cB(b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,s,b1,C.I,b1,b1,!0,b1,b1,b1,b1,b1,b1))],b4)),T.cX(b1,a2,b1),T.da(H.c([L.cl("Release date : ",A.cB(b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,s,b1,C.I,b1,b1,!0,b1,b1,b1,b1,b1,b1)),L.cl("01-06-2021",A.cB(b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,s,b1,C.I,b1,b1,!0,b1,b1,b1,b1,b1,b1))],b4)),T.cX(b1,a2,b1),T.da(H.c([L.cl("Approximate size : ",A.cB(b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,s,b1,C.I,b1,b1,!0,b1,b1,b1,b1,b1,b1)),L.cl("21.2 MB",A.cB(b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,s,b1,C.I,b1,b1,!0,b1,b1,b1,b1,b1,b1))],b4)),T.cX(b1,a2,b1),T.da(H.c([L.cl("Category : ",A.cB(b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,s,b1,C.I,b1,b1,!0,b1,b1,b1,b1,b1,b1)),L.cl("Education",A.cB(b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,b1,s,b1,C.I,b1,b1,!0,b1,b1,b1,b1,b1,b1))],b4))],b4)),b1,b1,b1,b1,new V.b8(p,0,p,0),b1,b1)],b4))
 return new E.nu(!0,b2,b1)},
 $S:121}
 F.Zp.prototype={
-$0:function(){var s="apk/ask-dev.apk",r=W.a5P(s)
+$0:function(){var s="https://github.com/Chitkara-ACM/AskDev/raw/main/ask-dev.apk",r=W.a5P(s)
 r.download=s
 r.click()},
 $S:2}
